@@ -2,7 +2,7 @@
 
 * This is the official repository for [ICML 2024 paper](https://arxiv.org/pdf/2406.16990): "AND: Audio Network Dissection for Interpreting Deep Acoustic Models"
   * **AND** is the first framework to describe the roles of hidden neurons in audio networks.
-  * **AND** provides both **open-vocabulary concepts** and **generative natural language explainations of acoustic neurons based on LLMs**, and can seamlessly adopt progressive LLMs in the future.
+  * **AND** provides both **open-vocabulary concepts** and **generative natural language explanations of acoustic neurons based on LLMs**, and can seamlessly adopt progressive LLMs in the future.
   * **AND** showcases the potential use-case for **audio machine unlearning** by conducting concept-specific pruning.
   
 * Below we illustrate the overview of **AND**, which consists of 3 major Modules A-C to identify neuron concepts in audio networks as illustrated below. For more information about AND, please check out our <a href="https://lilywenglab.github.io/Audio_Network_Dissection/">project website</a>.
