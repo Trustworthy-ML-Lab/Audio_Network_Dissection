@@ -1,0 +1,17 @@
+SALMONN
+*.json
+*.pth
+*.pt
+*.pickle
+*.env
+*.pdf
+__pycache__
+**whisper**
+**vicuna**
+saved_activations/*
+summaries/*.json
+audio_description/*
+discriminative_samples/*
+frequency_analysis/
+prediction/*
+env/

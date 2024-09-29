@@ -1,0 +1,17 @@
+clip
+laion_clap==1.1.6
+torch
+torchaudio
+torchvision
+torchlibrosa
+matplotlib == 3.5.1
+scipy >= 1.10.1
+transformers 
+nltk
+sentence-transformers
+vllm==0.3.0
+datasets
+soundfile
+librosa
+numpy==1.23.5
+spacy
